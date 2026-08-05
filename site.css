@@ -236,6 +236,8 @@ section + section { border-top: 1px solid var(--rule); }
   background: var(--gold-deep);
   margin-top: 0.85rem;
 }
+.sec-head p { margin: 0; max-width: var(--measure); color: var(--body); }
+
 .sec-head--dark h2 { color: var(--paper); }
 .sec-head--dark h2::after { background: var(--gold); }
 .sec-head--dark p { color: #C9C6BF; }
@@ -463,6 +465,16 @@ main a:not(.btn):not(.wordmark):hover { color: var(--ink); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
+
+/* ---------- Terminology crosswalk tables ---------- */
+
+.crosswalk-wrap { overflow-x: auto; margin: 0 0 2.5rem; }
+.crosswalk { font-size: var(--step--1); border-collapse: collapse; width: 100%; min-width: 640px; }
+.crosswalk caption { text-align: left; font-family: var(--font-ui); color: var(--muted); padding-bottom: 0.6rem; }
+.crosswalk th, .crosswalk td { text-align: left; padding: 0.6rem 1rem 0.6rem 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.crosswalk th { font-family: var(--font-mono); font-weight: 400; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.68rem; white-space: nowrap; }
+.crosswalk td:first-child { font-weight: 700; color: var(--ink); white-space: nowrap; }
+.crosswalk td:nth-child(2) { color: var(--muted); }
 
 /* ---------- Print ---------- */
 
