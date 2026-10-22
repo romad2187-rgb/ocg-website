@@ -17,4 +17,14 @@ Source of truth for site content is the current OCG capability statement (Drive:
 - "Current as of" dates moved to October 2026.
 - Hero image unchanged (AI-generated placeholder retained pending photography).
 
+
+## 2026-10-22 — LZAC four-track family
+
+Source: OIT-CUR-002 Curriculum Scope Control (9 Oct 2026) and LZ/AZ Assessment Methodology Framework v1.4; owner decisions 22 Oct 2026.
+
+- LZAC catalog entry rebuilt as a four-track family with per-track delivery status: HLZ Survey & Assessment (5 days, available); LZSO Preparation (10 days, by request, against a MAJCOM-approved plan); LZ Survey & Assessment (10 days, in development — no CCT/STO on cadre); DZ Survey & Assessment (10 days, in development — no DZC qualification pathway yet).
+- "Control" removed from track titles; fourth track retitled from "Landing Zone Survey Officer" to "LZSO Preparation".
+- CAOS credential retired. All tracks now carry "Orion Institute of Training Course Completion, by track" with an explicit non-credential statement.
+- Institute intro: course length range widened to 3–10 days; certificate paragraph reworded to completion-record language.
+
 Held, not published: Joey Hunn, Cory Dodge, Virgil Saldivar. Alina Epstein remains off the roster.

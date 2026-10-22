@@ -482,3 +482,7 @@ main a:not(.btn):not(.wordmark):hover { color: var(--ink); }
   .masthead, .site-foot, .btn-row { display: none; }
   body { color: #000; }
 }
+
+.course ul.tracks { margin: 0 0 0.5rem; }
+.course ul.tracks li { margin-bottom: 0.6rem; }
+.course ul.tracks em { font-style: normal; color: var(--gold-deep); font-weight: 600; }
