@@ -482,3 +482,11 @@ main a:not(.btn):not(.wordmark):hover { color: var(--ink); }
   .masthead, .site-foot, .btn-row { display: none; }
   body { color: #000; }
 }
+
+.course ul.tracks { margin: 0 0 0.5rem; }
+.course ul.tracks li { margin-bottom: 0.6rem; }
+.course ul.tracks em { font-style: normal; color: var(--gold-deep); font-weight: 600; }
+
+/* ---------- SBA certification marks (use per SBA brand guidance; remove if certification lapses) ---------- */
+.cert-marks { display:flex; gap:1rem; margin-top:1.5rem; }
+.cert-marks img { width:96px; height:auto; display:block; }
